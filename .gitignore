@@ -1,0 +1,23 @@
+# Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# PyInstaller build files
+dist/
+build/
+*.spec
+
+# Virtual environment
+venv/
+env/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+*.bak
+
+# System files
+.DS_Store
+Thumbs.db
